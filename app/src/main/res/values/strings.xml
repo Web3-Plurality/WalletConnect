@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DeepLinking_WalletConnect</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Deep Linking Signing App</string>
+
+    <string name="title_activity_intent">IntentActivity</string>
+
+    <string name="greeting">WalletConnect Sign-Requester Application</string>
+    <string name="pair">Pair with wallet</string>
+    <string name="request_sign">Request Sign from Wallet</string>
+
+    <string name="deep_link_url">kotlin-plurality-dapp-wc:/request</string>
+
+</resources>
